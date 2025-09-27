@@ -5,7 +5,7 @@ Projeto final do curso "Front-End Development", da escola de ensino em tecnologi
 Final project of the course "Front-End Development", from the technology school [Versatil](https://versatilti.com.br/).
 
 <br>
-  <img width="406" height="235" alt="Mockup - Desktop" src="https://github.com/user-attachments/assets/897b9c9b-e88a-4d9d-9ab0-888d93572cd2" />
+  <img width="406" height="235" alt="Mockup - Desktop" src="https://github.com/user-attachments/assets/047bcc5f-6877-44fb-ad01-8999ddd3cb3c" />
 <br>
 
 ## Ferramentas utilizadas | Tools used in this project
